@@ -1,0 +1,167 @@
+canonical_identifier: bkk:krp/KR3ea048/v1
+canonical_location: https://kanripo.org/bkk/KR3ea048/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 《內經》運氣表
+  identifiers:
+    krp: KR3ea048
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea048.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea048_000.yaml, hash: 'sha256:dc0e76a66d858229d92b5064f2ff2f4bc1752caee4a930c4f11914549c5b3468'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea048_000.markers.yaml, hash: 'sha256:28cb603c151cbcb8fb6682839d58ac66ddac7ed30e223f74265f12bccc7d9579'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 5088
+  label: 內經運氣表
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d4
+    span:
+    - body
+    - 131
+    - 576
+  label: 五氣經天表第一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d5
+    span:
+    - body
+    - 576
+    - 893
+  label: 五行化為六氣表第二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d6
+    span:
+    - body
+    - 893
+    - 1303
+  label: 五運合五音太少相生表第三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d7
+    span:
+    - body
+    - 1303
+    - 1735
+  label: 司天在泉左右間氣表第四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d8
+    span:
+    - body
+    - 1735
+    - 1977
+  label: 陰陽五行中運年表第五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d9
+    span:
+    - body
+    - 1977
+    - 2214
+  label: 六政六紀上中下年表第六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d10
+    span:
+    - body
+    - 2214
+    - 2611
+  label: 客氣加臨主氣年表第七
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d11
+    span:
+    - body
+    - 2611
+    - 2870
+  label: 五運齊化兼化表第八
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d12
+    span:
+    - body
+    - 2870
+    - 3237
+  label: 天符歲會年表第九
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d13
+    span:
+    - body
+    - 3237
+    - 3536
+  label: 運氣中上順逆年表第十
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d14
+    span:
+    - body
+    - 3536
+    - 3815
+  label: 六元本標中氣治法表第十一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d15
+    span:
+    - body
+    - 3815
+    - 4034
+  label: 五行勝復表第十二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea048_jc_000-d2d16
+    span:
+    - body
+    - 4034
+    - 5088
+  label: 司天在泉勝復補瀉合表第十三
+  type: section
+  level: 2
+hash: sha256:625d9f1d1e68fa13ee2be325d7b985e8776e564d80e3709b8e3c9b220c3d676e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
