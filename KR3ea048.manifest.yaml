@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ea048_000.yaml, hash: 'sha256:dc0e76a66d858229d92b5064f2ff2f4bc1752caee4a930c4f11914549c5b3468'}
+  - {seq: 0, filename: KR3ea048_000.yaml, hash: 'sha256:4338444d97292abfdc999b48478ac1a928f47a316a2f279d64e1d76a77ca90a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea048_000.markers.yaml, hash: 'sha256:28cb603c151cbcb8fb6682839d58ac66ddac7ed30e223f74265f12bccc7d9579'}
+  - {seq: 0, role: markers, filename: assets/KR3ea048_000.markers.yaml, hash: 'sha256:e6cdeb3e2a4302939c6438fe6b169d7c9458a737bcc45c560cbe1f2ef3867456'}
 table_of_contents:
 - ref:
     seq: 0
@@ -161,7 +161,4 @@ table_of_contents:
   label: 司天在泉勝復補瀉合表第十三
   type: section
   level: 2
-hash: sha256:625d9f1d1e68fa13ee2be325d7b985e8776e564d80e3709b8e3c9b220c3d676e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:08613751e45d6fbb45037508e3b84246e609236e1694eb7fe889ebf75d5318bc
