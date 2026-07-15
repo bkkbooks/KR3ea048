@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ea048/v1
 canonical_location: https://kanripo.org/bkk/KR3ea048/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 《內經》運氣表
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ea048_000.yaml, hash: 'sha256:4338444d97292abfdc999b48478ac1a928f47a316a2f279d64e1d76a77ca90a7'}
+  - {seq: 0, filename: KR3ea048_000.yaml, hash: 'sha256:8ce707197f38f1faaf30b94fc277ddcb92cbec78d6c5cf25e9f99695ebfabcdb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea048_000.markers.yaml, hash: 'sha256:e6cdeb3e2a4302939c6438fe6b169d7c9458a737bcc45c560cbe1f2ef3867456'}
+  - {seq: 0, role: markers, filename: assets/KR3ea048_000.markers.yaml, hash: 'sha256:b4bc1a919581bf5db7185222f68c74a395cf3978c24b8215117b3e011531dba4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -161,4 +161,7 @@ table_of_contents:
   label: 司天在泉勝復補瀉合表第十三
   type: section
   level: 2
-hash: sha256:08613751e45d6fbb45037508e3b84246e609236e1694eb7fe889ebf75d5318bc
+hash: sha256:88f6c7487bab945952eb02b7c9277a93902730d7ddc9a397180287ca6064af79
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
